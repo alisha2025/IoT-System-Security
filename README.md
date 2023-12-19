@@ -1,2 +1,2 @@
 # IoT-System-Security
- Different machine learning models are deployed and compared based on the performance analytics to detect 4 attack scenarios in MQTT protocol
+Different machine learning models are deployed and compared based on the performance analytics to detect 4 attack scenarios in MQTT protocol. The different attack scenarios  are: MQTT_Bruteforce, UDP Scan, Aggressive Scan, Sparta SSH. The models used are Naive Bayes, MLP, Linear Regression, SVM, Decision Tree, Random Forest, XGBoost, K-NN, LSTM and RNN. All the models performed pretty good with LSTM and XGBoost giving the best accuracy metrics. 
